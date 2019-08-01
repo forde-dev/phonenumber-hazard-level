@@ -1,0 +1,19 @@
+name: umbra
+version: 0.1.0
+
+authors:
+  - Michael Forde <mf@cix.ie>
+
+targets:
+  umbra:
+    main: src/umbra.cr
+
+dependencies:
+  myhtml:
+    github: kostya/myhtml
+  crest:
+    github: mamantoha/crest
+
+crystal: 0.29.0
+
+license: MIT
