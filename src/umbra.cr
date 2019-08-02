@@ -8,7 +8,8 @@ end
 include NumberStatus
 
 # "35351347761" hazard number
+# "35315290177" neutral number
 
-status = status("0857739075")
+status = status("35315290177")
 puts status
 
