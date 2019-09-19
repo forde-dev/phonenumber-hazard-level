@@ -1,6 +1,6 @@
 require "./purser.cr"
 
-# `Umbra` is a phone number scraper for www.phonenumbers.ie
+# `Phonenumber-Hazard-level` is a phone number scraper for www.phonenumbers.ie
 module Umbra
   VERSION = "0.1.0"
 end

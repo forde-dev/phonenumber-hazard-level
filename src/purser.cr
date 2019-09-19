@@ -1,6 +1,7 @@
 require "myhtml"
 require "./lookup.cr"
 
+# `Purser` gathers the needed information form a `www.phonenumber.ie` webpage
 module Purser
 
     def hazard_rating(html : String)

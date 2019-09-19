@@ -1,22 +1,11 @@
-# umbra
+# Phonenumber Hazard Level
 
-TODO: Write a description here
-
-## Installation
-
-TODO: Write installation instructions here
-
-## Usage
-
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
+This program allows you to gather a hazard level on any phonenumber you insert into it,
+the hazard level is a pecentage from 1 to 100, 100 being the most dangours and 0 being the least
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/umbra/fork>)
+1. Fork it (<https://github.com/fordetek/phonenumber-hazard-level/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -24,4 +13,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [Michael Forde](https://github.com/your-github-user) - creator and maintainer
+- [Michael Forde](https://github.com/fordetek) - creator and maintainer
